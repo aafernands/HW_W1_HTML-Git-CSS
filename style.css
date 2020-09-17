@@ -1,5 +1,5 @@
 /*logo font*/
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&display=swap');
 
 * {
 	box-sizing: border-box;
@@ -13,7 +13,7 @@ body {
 
 .header {
 	padding: 20px;
-	font-family: 'Abril Fatface', cursive;
+	font-family: 'Cinzel', serif;
 	background-color: rgb(246, 63, 59);
 	color: #8a8484;
 }
@@ -77,6 +77,7 @@ p {
 .float-left {
 	float: left;
 	margin-right: 25px;
+	
 }
 
 .float-right {
@@ -208,6 +209,7 @@ p {
 	clear: both;
 	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 	text-align: center;
+	color: ivory;
 	background-color: rgb(204, 56, 54);
 	margin-bottom: 20px;
 }
